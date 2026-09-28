@@ -99,7 +99,7 @@
   ],
   "functions": {
     "app/(ee)/api/cron/**/*.ts": {
-      "maxDuration": 600
+      "maxDuration": 300
     }
   }
 }
